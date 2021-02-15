@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✏️Read my blog on ![https://eazure.github.io/](https://eazure.github.io/)
+
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=eAzure&theme=radical)
