@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![eAzure's github stats](https://github-readme-stats.vercel.app/api?username=eAzure&theme=radical&count_private=true)
 
-![eAzure's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eAzure)]
+![eAzure's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eAzure&hide=javascript,html,vue,css)
