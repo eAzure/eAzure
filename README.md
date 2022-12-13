@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Auto-tensorization.
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=eAzure&theme=radical)
+<!-- ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=eAzure&theme=radical) -->
+![eAzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=eAzure&show_icons=true&theme=tokyonight)
