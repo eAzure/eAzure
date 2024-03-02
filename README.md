@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Auto-tensorization.
+- 🌱 I’m a good man.
 
 ![eAzure's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eAzure&theme=radical&count_private=true)
